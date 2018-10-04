@@ -1,0 +1,45 @@
+#prénom{
+    position: relative;
+    left: 40%;
+    bottom: 160px;
+color: darkred;
+    border: outset darkred;
+    margin-right: 1270px;
+}
+#musique{
+    position: relative;
+    border-color: darkred;
+}
+p{
+    position: relative;
+    text-align: center;
+bottom: 70px;
+}
+#musique{
+    left: 190px;
+}
+#films{
+    position: relative;
+    text-align: center;
+    bottom : 100px;
+}
+#jeuxvideo{
+    position: relative;
+    left: 1200px;
+    bottom: 200px;
+
+}
+span{
+    border:outset red;
+    font-family: "cursive";
+}
+
+body {
+    color:black;
+    background-color:white;
+    background-image:http://www.hd-wallpaper.images-fonds.com/modules/mg3/albums/Informatique_Wallpaper_HD/Windows/informatique_(windows)_wallpaper_HD_0011.jpg(images/image_de_fond.png);
+}
+img{border: outset darkred;}
+#liens{
+    text-align: center;
+}
