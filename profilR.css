@@ -5,6 +5,9 @@
 color: darkred;
     border: outset darkred;
     margin-right: 1270px;
+    font-family: fantasy;
+    background-color: black;
+    line-height: 150%;
 }
 #musique{
     position: relative;
@@ -31,13 +34,14 @@ bottom: 70px;
 }
 span{
     border:outset red;
-    font-family: "cursive";
 }
 
 body {
     color:black;
-    background-color:white;
-    background-image:http://www.hd-wallpaper.images-fonds.com/modules/mg3/albums/Informatique_Wallpaper_HD/Windows/informatique_(windows)_wallpaper_HD_0011.jpg(images/image_de_fond.png);
+    background-color:darkorange;
+    font-family: "cursive";
+    font-size: medium;
+
 }
 img{border: outset darkred;}
 #liens{
