@@ -1,35 +1,48 @@
 #prénom{
-    position: relative;
-    left: 40%;
-    bottom: 160px;
+    position:absolute;
+    left: 50%;
+    bottom: 600px;
 color: darkred;
     border: outset darkred;
-    margin-right: 1270px;
+    margin-right: 1220px;
     font-family: fantasy;
     background-color: black;
     line-height: 150%;
+    padding-left: 2%;
+    padding-right:2%;
 }
 #musique{
-    position: relative;
-    border-color: darkred;
+    position: absolute;
+    border:outset darkred;
+    left: 45%;
+    top: 61%;
+    padding-right: 2%;
+
 }
 p{
-    position: relative;
-    text-align: center;
-bottom: 70px;
+    position: absolute;
+    left: 30%;
+bottom: 60%;
+
 }
-#musique{
-    left: 190px;
-}
+
 #films{
-    position: relative;
-    text-align: center;
-    bottom : 100px;
+    position: absolute;
+    bottom : 22%;
+    border:outset black;
+    left:15%;
+   padding-right: 2%;
 }
 #jeuxvideo{
-    position: relative;
+    position: absolute;
     left: 1200px;
-    bottom: 200px;
+    bottom: 22%;
+    border:outset black;
+    padding-right: 3%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-top: 1%;
+
 
 }
 span{
@@ -45,5 +58,14 @@ body {
 }
 img{border: outset darkred;}
 #liens{
-    text-align: center;
+    border: outset red;
+    top: 95%;
+    position:absolute;
+    left:40%;
+}
+#page{
+margin: auto;
+}
+a:hover{
+    background-color: whitesmoke;
 }
