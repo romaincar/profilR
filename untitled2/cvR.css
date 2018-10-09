@@ -1,0 +1,44 @@
+a:hover{
+    background-color: yellowgreen;
+}
+
+#page {
+    max-width: 80%;
+    position: absolute;
+    background-image: url("http://static1.purebreak.com/articles/1/23/28/1/@/39211-matrix-keanu-reeves-200x200-1.jpg");
+    background-repeat: no-repeat;
+    border: solid black 2px;
+    padding: 10% 550px 20% 550px ;
+    margin: auto 10% auto 10%;
+    background-position: top right;
+}
+#experiences{
+    border: solid 2px red;
+margin: 5% 25% 5% 25%;
+    padding: 5% 70% 5% 25%;
+}
+#Formations{
+    border: solid 2px darkred;
+    margin:  5% 50% 5% 25%;
+padding: 5% 70% 5% 25%;
+}
+#Competences{
+    border: solid 2px rebeccapurple;
+    margin:  5% 25% 5% 25%;
+    padding: 5% 70% 5% 25%;
+
+}
+#travail{
+    position: relative;
+    right: 300px;
+    top: 150px;
+}
+#coordonnees{
+    position: relative;
+    border: solid black 2px;
+top: 90%;
+    right: 290%;
+}
+#nomprenom{
+    border: solid black 2px;
+}
