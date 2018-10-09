@@ -16,17 +16,32 @@ a:hover{
     border: solid 2px red;
 margin: 5% 25% 5% 25%;
     padding: 5% 70% 5% 25%;
+    display: inline-block;
+
+}
+#epro{
+    border-bottom: solid red 2px;
 }
 #Formations{
     border: solid 2px darkred;
-    margin:  5% 50% 5% 25%;
-padding: 5% 70% 5% 25%;
+    margin:  5% 25% 5% 25%;
+padding:  5% 70% 5% 25%;
+    display: inline-block;
+
+}
+#fpro{
+    border-bottom: solid darkred 2px;
 }
 #Competences{
     border: solid 2px rebeccapurple;
     margin:  5% 25% 5% 25%;
     padding: 5% 70% 5% 25%;
+    display: inline-block;
 
+}
+#cpro{
+    border-bottom: solid rebeccapurple 2px;
+    margin: 0
 }
 #travail{
     position: relative;
